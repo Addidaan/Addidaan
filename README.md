@@ -1,5 +1,6 @@
-### Hi there 👋
+![ajedrez y  mano recortada](https://user-images.githubusercontent.com/113950323/215821628-071f1431-10e4-446a-9270-9ba020f1382e.jpg)
 
+### Hi there 👋
 <!--
 **Addidaan/Addidaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
